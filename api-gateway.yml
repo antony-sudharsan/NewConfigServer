@@ -53,7 +53,7 @@ security:
       jwt:
         keyValue: |
           -----BEGIN PUBLIC KEY-----
-          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhVny3DfQqdvQaPj6SJiiFfPRGH/5k3OiAXTCsmpKnL/GVKZpfFjT3LhN7xoj0DzJLTCOE94eOjIHipFzxrL00kBCZJ3HOornKDpTh17yPuqJI6DNmvJaRBbc3SVQsO0vndnDAeOBiv4euGHH97sPZYFqhmwM35PboqxeWaHrfgWcA5F8VFTp+HDPr26G4sv/UqkR1LsfRoD4gzNJswi00eWcNjeoEzy71023VECQYDytUg/wVqWOJnShWOJnCBnuzmjrtOCg6O6ecdHhVaiRI0//ZR71x2oDW5pe+kgVhhM29TH8SVRjbAFh35obN6ppcF3A7PFLf+euZTsmXMaahQIDAQAB
+          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5dwPU+/tJ0nOWME4LgMr83VxeJbYCER5iC2eb4yn2E/enZIpRpQspcLRpVLEtHaOreSWhpcIX78x/R+GINSCXPDRILo6rFJL7UwA3M6rbJohJMzpZwN07kzb0vCJY0phqabqqDalzr2ShwfRtgPhRdXmfw6QDlSWIJuABDdNv2BN3B6jbg2Z4ZaGseMgdE4IfBdrZQgRxJobjoXRDcWEDBKNZYPEKfWHa1F4eo90PM6rulSSBl4I+Nlt0kdbQEKEkcD/6HNf3zECmCSM/I0MA+1Ikft/EQhFaQdxpNB2J4gS1+wQWfz1URwar3eI3tgwnrFNnAlcYlqzlqTNLrOGmQIDAQAB
           -----END PUBLIC KEY-----
 # Define the port where the API gateway server would be running
 server:
